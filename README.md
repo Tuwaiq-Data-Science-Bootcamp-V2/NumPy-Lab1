@@ -1,1 +1,1 @@
-# Day8-Lab1-NumPy
+# NumPy-Lab1
